@@ -1,5 +1,5 @@
 🌐INTRODUCTION TO NETWORKING BASICS
-Laboratory Objective
+aboratory Objective
 Upon successful completion of this Lab the student will be able to:
 ➢ To understand the use of client/server architecture in application development.
 ➢ To understand and use elementary socket system calls and advanced socket system
