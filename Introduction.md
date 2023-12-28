@@ -1,4 +1,4 @@
-🌐INTRODUCTION TO NETWORKING BASICS
+🌐INTRODUCTION TO NETWORKING BASICS🌐
 Laboratory Objective
 Upon successful completion of this Lab the student will be able to:
 ➢ To understand the use of client/server architecture in application development.
