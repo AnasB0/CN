@@ -4,7 +4,7 @@ Understanding and using the following commands ifconfig, netstat, ping, arp, tel
 Program Description
 In this we will study few networking commands to gain an understanding of the commands
 and their usage along with their options.
-i) ifconfig
+i) ifconfig 
 Name
 ifconfig - configure a network interface
 Synopsis
