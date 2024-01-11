@@ -1,5 +1,5 @@
 PROGRAM 1
-Understanding Networking Commands
+Understanding Networking Commands 
 Understanding and using the following commands ifconfig, netstat, ping, arp, telnet, tftp, ftp.
 Program Description
 In this we will study few networking commands to gain an understanding of the commands
